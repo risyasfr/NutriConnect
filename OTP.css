@@ -1,0 +1,219 @@
+.otp,
+.otp * {
+  box-sizing: border-box;
+}
+.otp {
+  background: #ffffff;
+  height: 926px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.home-indicator {
+  width: 393px;
+  height: 34px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 0px;
+}
+.home-indicator2 {
+  background: var(--000000, #000000);
+  border-radius: 100px;
+  width: 134px;
+  height: 5px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 8px;
+}
+.top-status-bar {
+  height: 52px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.notch {
+  position: absolute;
+  inset: 0;
+}
+.right-side {
+  position: absolute;
+  inset: 0;
+}
+.battery {
+  width: 24.33px;
+  height: 11.33px;
+  position: absolute;
+  right: 14.34px;
+  top: 20px;
+  overflow: visible;
+}
+.wifi {
+  width: 15.27px;
+  height: 10.97px;
+  position: absolute;
+  left: 369.03px;
+  top: 20px;
+  overflow: visible;
+}
+.mobile-signal {
+  width: 17px;
+  height: 10.67px;
+  position: absolute;
+  left: 347px;
+  top: 20.34px;
+  overflow: visible;
+}
+.left-side {
+  height: auto;
+  position: absolute;
+  left: 3px;
+  top: 16px;
+  overflow: visible;
+}
+.otp-verification {
+  color: #000000;
+  text-align: left;
+  font-family: "DmSans-9PtRegular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 117px;
+  top: 141px;
+}
+.enter-one-time-password {
+  color: #000000;
+  text-align: left;
+  font-family: "DmSans-9PtRegular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 134px;
+  top: 213px;
+}
+.one-time-password-has-been-sent-to-your-email {
+  color: #000000;
+  text-align: left;
+  font-family: "DmSans-9PtRegular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 62px;
+  top: 252px;
+}
+.enter-the-5-digit-code-we-sent-you-via-email-to-continue {
+  color: #000000;
+  text-align: left;
+  font-family: "DmSans-9PtRegular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 35px;
+  top: 295px;
+}
+.not-your-email-didn-t-receive-the-code {
+  color: #000000;
+  text-align: left;
+  font-family: "DmSans-9PtRegular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 81px;
+  top: 601px;
+}
+.try-again {
+  color: #000000;
+  text-align: left;
+  font-family: "DmSans-9PtRegular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 178px;
+  top: 621px;
+}
+.group-10 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: #d9d9d9;
+  border-radius: 8px;
+  width: 374px;
+  height: 48px;
+  position: absolute;
+  left: 26px;
+  top: 706px;
+}
+.verify {
+  color: #000000;
+  text-align: center;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 188px);
+  top: 718.75px;
+  width: 374px;
+  height: 23.25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.line-3 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 58px;
+  height: 0px;
+  position: absolute;
+  left: 19px;
+  top: 479px;
+}
+.line-4 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 58px;
+  height: 0px;
+  position: absolute;
+  left: 106px;
+  top: 479px;
+}
+.line-5 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 58px;
+  height: 0px;
+  position: absolute;
+  left: 191px;
+  top: 479px;
+}
+.line-6 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 58px;
+  height: 0px;
+  position: absolute;
+  left: 277px;
+  top: 479px;
+}
+.line-7 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 58px;
+  height: 0px;
+  position: absolute;
+  left: 359px;
+  top: 479px;
+}

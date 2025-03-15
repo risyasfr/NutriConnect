@@ -1,0 +1,287 @@
+.pesen,
+.pesen * {
+  box-sizing: border-box;
+}
+.pesen {
+  background: #ffffff;
+  height: 926px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.home-indicator {
+  width: 393px;
+  height: 34px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 0px;
+}
+.home-indicator2 {
+  background: var(--000000, #000000);
+  border-radius: 100px;
+  width: 134px;
+  height: 5px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 8px;
+}
+.vector {
+  width: 458.26%;
+  height: 66.26%;
+  position: absolute;
+  right: -125.12%;
+  left: -233.14%;
+  bottom: 81.24%;
+  top: -47.5%;
+  transform: translate(997.84px, 439.87px);
+  overflow: visible;
+}
+.top-status-bar {
+  height: 52px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.notch {
+  position: absolute;
+  inset: 0;
+}
+.right-side {
+  position: absolute;
+  inset: 0;
+}
+.battery {
+  width: 24.33px;
+  height: 11.33px;
+  position: absolute;
+  right: 14.34px;
+  top: 20px;
+  overflow: visible;
+}
+.wifi {
+  width: 15.27px;
+  height: 10.97px;
+  position: absolute;
+  left: 369.03px;
+  top: 20px;
+  overflow: visible;
+}
+.mobile-signal {
+  width: 17px;
+  height: 10.67px;
+  position: absolute;
+  left: 347px;
+  top: 20.34px;
+  overflow: visible;
+}
+.left-side {
+  height: auto;
+  position: absolute;
+  left: 3px;
+  top: 16px;
+  overflow: visible;
+}
+.group-30 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-23 {
+  background: #d9d9d9;
+  width: 325px;
+  height: 50px;
+  position: absolute;
+  left: 12px;
+  top: 95px;
+}
+.image-14 {
+  width: 32px;
+  height: 30px;
+  position: absolute;
+  left: 17px;
+  top: 105px;
+  object-fit: cover;
+  aspect-ratio: 32/30;
+}
+.image-58 {
+  width: 129px;
+  height: 231px;
+  position: absolute;
+  left: 8px;
+  top: 657px;
+  object-fit: cover;
+  aspect-ratio: 129/231;
+}
+.image-59 {
+  width: 131px;
+  height: 231px;
+  position: absolute;
+  left: 146px;
+  top: 655px;
+  object-fit: cover;
+  aspect-ratio: 131/231;
+}
+.image-142 {
+  width: 62px;
+  height: 51px;
+  position: absolute;
+  left: 351px;
+  top: 94px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  aspect-ratio: 62/51;
+}
+.deliver-to {
+  color: #000000;
+  text-align: left;
+  font-family: "Lexend-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 202px);
+  top: 43px;
+  width: 380px;
+}
+.similar-option {
+  color: #000000;
+  text-align: left;
+  font-family: "Lexend-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 202px);
+  top: 183px;
+  width: 380px;
+}
+.image-54 {
+  width: 50px;
+  height: 48px;
+  position: absolute;
+  left: 355px;
+  top: 36px;
+  object-fit: cover;
+  aspect-ratio: 50/48;
+}
+.rectangle-1489 {
+  background: #d9d9d9;
+  width: 401px;
+  height: 154px;
+  position: absolute;
+  left: 12px;
+  top: 217px;
+}
+.image-17 {
+  width: 79px;
+  height: 75px;
+  position: absolute;
+  left: 352px;
+  top: 289px;
+  object-fit: cover;
+  aspect-ratio: 79/75;
+}
+.diisi-sama-rumah-makan-sama-rating {
+  color: #000000;
+  text-align: left;
+  font-family: "Lexend-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 42px;
+  top: 240px;
+  width: 250px;
+  height: 55px;
+}
+.program-makan-dan-nutrisinya {
+  color: #000000;
+  text-align: left;
+  font-family: "Lexend-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 12px;
+  top: 383px;
+  width: 394px;
+  height: 42px;
+}
+.image-55 {
+  width: 131px;
+  height: 231px;
+  position: absolute;
+  left: 7px;
+  top: 417px;
+  object-fit: cover;
+  aspect-ratio: 131/231;
+}
+.image-57 {
+  width: 131px;
+  height: 231px;
+  position: absolute;
+  left: 286px;
+  top: 417px;
+  object-fit: cover;
+  aspect-ratio: 131/231;
+}
+.image-60 {
+  width: 129px;
+  height: 231px;
+  position: absolute;
+  left: 286px;
+  top: 655px;
+  object-fit: cover;
+  aspect-ratio: 129/231;
+}
+.image-56 {
+  width: 128px;
+  height: 231px;
+  position: absolute;
+  left: 147px;
+  top: 418px;
+  object-fit: cover;
+  aspect-ratio: 128/231;
+}
+.group-3611 {
+  position: absolute;
+  inset: 0;
+}
+.union {
+  width: 428px;
+  height: 87px;
+  position: absolute;
+  left: 0px;
+  top: 839px;
+  overflow: visible;
+}
+.group-3608 {
+  width: 90.42%;
+  height: 3.2%;
+  position: absolute;
+  right: 4.68%;
+  left: 4.91%;
+  bottom: 1.76%;
+  top: 95.03%;
+  overflow: visible;
+}
+.group-3609 {
+  width: 203.14px;
+  height: 30.52px;
+  position: absolute;
+  left: 112px;
+  top: 879px;
+  overflow: visible;
+}
+.image-19 {
+  border-radius: 6.72px;
+  width: 61.86px;
+  height: 59px;
+  position: absolute;
+  left: 183px;
+  top: 912px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+  backdrop-filter: blur(0.29px);
+  object-fit: cover;
+  aspect-ratio: 61.86/59;
+}

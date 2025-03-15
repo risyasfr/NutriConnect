@@ -1,0 +1,125 @@
+.confirm-app-pass,
+.confirm-app-pass * {
+  box-sizing: border-box;
+}
+.confirm-app-pass {
+  background: #ffffff;
+  height: 926px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.home-indicator {
+  width: 393px;
+  height: 34px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 0px;
+}
+.home-indicator2 {
+  background: var(--000000, #000000);
+  border-radius: 100px;
+  width: 134px;
+  height: 5px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 8px;
+}
+.top-status-bar {
+  height: 52px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.notch {
+  position: absolute;
+  inset: 0;
+}
+.right-side {
+  position: absolute;
+  inset: 0;
+}
+.battery {
+  width: 24.33px;
+  height: 11.33px;
+  position: absolute;
+  right: 14.34px;
+  top: 20px;
+  overflow: visible;
+}
+.wifi {
+  width: 15.27px;
+  height: 10.97px;
+  position: absolute;
+  left: 369.03px;
+  top: 20px;
+  overflow: visible;
+}
+.mobile-signal {
+  width: 17px;
+  height: 10.67px;
+  position: absolute;
+  left: 347px;
+  top: 20.34px;
+  overflow: visible;
+}
+.left-side {
+  height: auto;
+  position: absolute;
+  left: 3px;
+  top: 16px;
+  overflow: visible;
+}
+.confirm-your-password {
+  color: #000000;
+  text-align: center;
+  font-family: "DmSans-9PtRegular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 18px;
+  top: 143px;
+  width: 397px;
+  height: 61px;
+}
+.group-10 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: #d9d9d9;
+  border-radius: 8px;
+  width: 374px;
+  height: 48px;
+  position: absolute;
+  left: 26px;
+  top: 751px;
+}
+.next {
+  color: #000000;
+  text-align: center;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 188px);
+  top: 763.75px;
+  width: 374px;
+  height: 23.25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-6 {
+  width: 413px;
+  height: 498px;
+  position: absolute;
+  left: 8px;
+  top: 198px;
+  object-fit: cover;
+  aspect-ratio: 413/498;
+}

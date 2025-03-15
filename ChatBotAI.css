@@ -1,0 +1,131 @@
+.chatbot-ai,
+.chatbot-ai * {
+  box-sizing: border-box;
+}
+.chatbot-ai {
+  background: #ffffff;
+  height: 926px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.vector {
+  width: 458.26%;
+  height: 64.66%;
+  position: absolute;
+  right: -458.19%;
+  left: 99.93%;
+  bottom: -35.91%;
+  top: 71.26%;
+  transform: translate(-427.68px, -659.84px);
+  overflow: visible;
+}
+.top-status-bar {
+  height: 52px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.notch {
+  position: absolute;
+  inset: 0;
+}
+.right-side {
+  position: absolute;
+  inset: 0;
+}
+.battery {
+  width: 24.33px;
+  height: 11.33px;
+  position: absolute;
+  right: 14.34px;
+  top: 20px;
+  overflow: visible;
+}
+.wifi {
+  width: 15.27px;
+  height: 10.97px;
+  position: absolute;
+  left: 369.03px;
+  top: 20px;
+  overflow: visible;
+}
+.mobile-signal {
+  width: 17px;
+  height: 10.67px;
+  position: absolute;
+  left: 347px;
+  top: 20.34px;
+  overflow: visible;
+}
+.left-side {
+  height: auto;
+  position: absolute;
+  left: 3px;
+  top: 16px;
+  overflow: visible;
+}
+.image-17 {
+  width: 79px;
+  height: 75px;
+  position: absolute;
+  left: 173px;
+  top: 70px;
+  object-fit: cover;
+  aspect-ratio: 79/75;
+}
+.chatbot-ai2 {
+  color: #000000;
+  text-align: left;
+  font-family: "DmSans-9PtRegular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 144px;
+  top: 160px;
+}
+.group-3611 {
+  position: absolute;
+  inset: 0;
+}
+.union {
+  width: 428px;
+  height: 87px;
+  position: absolute;
+  left: 0px;
+  top: 839px;
+  overflow: visible;
+}
+.group-3608 {
+  width: 90.42%;
+  height: 3.2%;
+  position: absolute;
+  right: 4.68%;
+  left: 4.91%;
+  bottom: 1.76%;
+  top: 95.03%;
+  overflow: visible;
+}
+.group-3609 {
+  width: 203.14px;
+  height: 30.52px;
+  position: absolute;
+  left: 112px;
+  top: 879px;
+  overflow: visible;
+}
+.image-19 {
+  border-radius: 6.72px;
+  width: 61.86px;
+  height: 59px;
+  position: absolute;
+  left: 183px;
+  top: 912px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+  backdrop-filter: blur(0.29px);
+  object-fit: cover;
+  aspect-ratio: 61.86/59;
+}
